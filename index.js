@@ -1,4 +1,4 @@
-const mocker = require('mocker-data-generator').default; // (vanilla way)
+const mocker = require('mocker-data-generator').default;
 const { faker } = require('@faker-js/faker');
 
 let userSchema = {
